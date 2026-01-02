@@ -1,6 +1,6 @@
 ## IAM Groups Created
-![Groups list](screenshots/groups-list.png)
+![Groups list](screenshots/group-users.png)
 
 ## ReadOnly Policy Attached
-![ReadOnly policy](screenshots/readonly-policy.png)
+![ReadOnly policy](screenshots/policy-img.png)
 
